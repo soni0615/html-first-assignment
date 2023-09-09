@@ -1,0 +1,1 @@
+<!DOCTYPE html>: In html,Basically this defines the version of html and tolds the browser current version of html so that webpage can be rendered.In html 5 this <!DOCTYPE html>had been added and this defines the version of html to the browser.This doctype html doesn't have the closing tag it can only have the opening tag.

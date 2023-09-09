@@ -1,0 +1,9 @@
+ Comments:- In html,comments use for the purpose of readability purpose it gaves the structure to our code.Comments is useful for other developers also for code readability purpose.
+Comments will be divided into two forms:
+1.Single-line comments
+2.Multi-line comments
+1.Single-line comments:In single line comment we can comment one single line only. for ex:
+ <!-- Lorem ipsum dolor sit amet consectetur. -->
+2.Multi-line comments:In multi line comment we can comment as many lines as we want to comment .for ex:- 
+ <!-- Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum distinctio doloribus odit eveniet voluptatem quaerat eaque nam modi totam fuga in cupiditate amet laborum tempore est illo, facere provident exercitationem autem similique? Commodi fugit, voluptatem aperiam dolores animi voluptates. Culpa, numquam deserunt vel nam sint vero nobis! Aut vel aperiam corrupti autem maiores facere porro, expedita commodi fugiat praesentium voluptatem deleniti? Enim nemo totam fugit quis dolores autem aperiam tempora exercitationem, corporis laudantium ipsam corrupti minus. Voluptatem rem illum placeat voluptas officia fugiat cupiditate odio sapiente. Illo porro, exercitationem ipsa eum enim labore nostrum, odio pariatur quibusdam hic qui. -->
+ 

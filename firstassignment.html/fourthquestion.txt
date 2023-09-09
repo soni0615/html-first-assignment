@@ -1,0 +1,13 @@
+    Tags:In html tags are basically used to gave structure and layout to the web page.
+    In html Tags can contain opening tags and closing tags.Tags gave the instructions to browser how to rendered the content on web page.Basically,tags are divided into two forms:
+    1.Paired Tags
+    2.Self-closing tags(singular tags)
+    1.Paired tags:These tags contain opening brackets and closing brackets.Some of the paired tags are:<title></title>,<h1></h1>,<head></head>,<body></body>,<a></a>and many more tags are in paired tags.
+    2.Self-closing tags:In self closing tags they contain only starting brackets they dont
+    have opening brackets.Some of them are: <br>,<hr>,<img>and many more.
+      <!-- elements  -->
+Elements:In html,elements have the opening tag and closing tag and the content which was written between the opening and closing tag this is known as elements in html. 
+for example:
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, voluptatum.</p>
+
+In short element can have the opening tag and closing tag and content which was written between the  tags.
